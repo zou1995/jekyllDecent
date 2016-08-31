@@ -5,10 +5,10 @@ menutitle:         "YAML Features"
 date:              2016-04-06 00:40:00 +0300
 tags:              Jekyll YAML Features Explained
 category:          Features
-author:            jwillmer
+author:            fangzheng
 cover:             /assets/mountain-alternative-cover.jpg
 published:         true
-redirect_from:     "/YAML-Features-Redirect/"
+redirect\_from:     "/YAML-Features-Redirect/"
 cover:             /assets/mountain-alternative-cover.jpg
 language:          EN
 ---
@@ -82,7 +82,7 @@ weight:       5
 ---
 ```
 
-The default language of your blog is defined in the `_config.yml` file but if you like to write a post/page in another language you can use the `language` attribute. This will specify that you are using another language on this page for search engines. Please use on of the [language codes](http://www.w3schools.com/tags/ref_language_codes.asp) as value. 
+The default language of your blog is defined in the `_config.yml` file but if you like to write a post/page in another language you can use the `language` attribute. This will specify that you are using another language on this page for search engines. Please use on of the [language codes][1] as value. 
 
 ```bash
 ---        
@@ -90,4 +90,7 @@ language:       en
 ---
 ```
 
-Additional features, that can be specified, can be found in the [YAML Front Matter documentation](https://jekyllrb.com/docs/frontmatter/).
+Additional features, that can be specified, can be found in the [YAML Front Matter documentation][2].
+
+[1]:	http://www.w3schools.com/tags/ref_language_codes.asp
+[2]:	https://jekyllrb.com/docs/frontmatter/
