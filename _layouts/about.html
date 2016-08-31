@@ -65,11 +65,22 @@ layout: headless
         </section>
 
     </article>
+    <script type="text/javascript">
+    var duoshuoQuery = {short_name:"zou1995"};
+	    (function() {
+		    var ds = document.createElement('script');
+		    ds.type = 'text/javascript';ds.async = true;
+		    ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.unstable.js';
+		    ds.charset = 'UTF-8';
+		    (document.getElementsByTagName('head')[0] 
+		    || document.getElementsByTagName('body')[0]).appendChild(ds);
+	    })();
+	</script>
     <!-- Duoshuo Comment BEGIN -->
     <div id="comments">
         <div class="ds-thread" {% if page.id %}data-thread-key="{{ page.id }}"{% endif %}  data-title="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}"></div>
     </div>
-<!-- Duoshuo Comment END -->
+    <!-- Duoshuo Comment END -->
 </main>
 
 {% include photoswipe.html %}
