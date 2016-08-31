@@ -40,4 +40,6 @@ That is what I want this blog be. I will not only write down some plain experien
 
 ---
 
+## Thanks
+Thanks for jekyllDecent theme created by Jens Willmer. 
 
