@@ -7,25 +7,26 @@ default:                                                      # Fallback if noth
   location:     Germany                                       # OPTIONAL: used to display location of the author
   website:      "http://jwillmer.de/about"                    # OPTIONAL: link to the author of a post
   email:                                                      # OPTIONAL: used in the about page
-  twitter:      jenswillmer                                   # OPTIONAL: used in the about page
-  linkedin:                                                   # OPTIONAL: used in the about page
-  xing:                                                       # OPTIONAL: used in the about page
+  twitter: # OPTIONAL: used in the about page
+  linkedin:# OPTIONAL: used in the about page
+  xing:    # OPTIONAL: used in the about page
   github:       jwillmer                                      # OPTIONAL: used in the about page
-  stackoverflow:                                              # OPTIONAL: used in the about page
-  facebook:                                                   # OPTIONAL: used in the about page
-  gplus:                                                      # OPTIONAL: used in the about page
-  soundcloud:                                                 # OPTIONAL: used in the about page
-  youtube:                                                    # OPTIONAL: used in the about page
-  pinterest:                                                  # OPTIONAL: used in the about page
-  dribble:                                                    # OPTIONAL: used in the about page
-  behance:                                                    # OPTIONAL: used in the about page
-jwillmer:
-  initial:      jwillmer
-  name:         "Jens Willmer"        
-  cover:        /assets/mountain-alternative-cover.jpg  
-  picture:      /assets/jwillmer.jpg  
-  bio:          All about technology 
-  location:     Germany 
-  website:      "http://jwillmer.de/about" 
-  twitter:      jenswillmer
-  github:       jwillmer
+  stackoverflow:# OPTIONAL: used in the about page
+  facebook:# OPTIONAL: used in the about page
+  gplus:# OPTIONAL: used in the about page
+  soundcloud:# OPTIONAL: used in the about page
+  youtube:# OPTIONAL: used in the about page
+  pinterest:# OPTIONAL: used in the about page
+  dribble:# OPTIONAL: used in the about page
+  behance:# OPTIONAL: used in the about page
+fangzheng:
+  initial:      fangzheng
+  name:         “Fangzheng Zou”        
+  cover:        /assets/shanghai.jpg  
+  picture:      /assets/fangzheng.jpg  
+  bio:          Stay hungry, stay foolish  
+  website:      "http://zoufangzheng.com/about" 
+  facebook:     zoufangzheng
+  github:       zou1995 
+  email:        zoufangzheng1995@outlook.com
+  location:     Shanghai,China

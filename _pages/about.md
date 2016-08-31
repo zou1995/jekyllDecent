@@ -1,12 +1,12 @@
 ---
 layout:    about
 permalink: "/about/"
-author:    jwillmer
-keywords:  about person demo example
-title:     About Jens Willmer
+author:    fangzheng
+keywords:  about person 
+title:     About This Blog and The Owner
 menutitle: About
-weight:    90
-excerpt:   This page contains the curriculum vitae (CV) of the author.
+weight:    62
+excerpt:   This page contains laconic description of my blog as well as myself.
 ---
 
 ## Profile
