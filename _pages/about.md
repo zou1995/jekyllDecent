@@ -24,8 +24,14 @@ Thank you for visiting and wish you have a pleasant journey in my blog.
 
 ## About the blog’s name - Splendid
 
-To start with, I will show the definition of “Splendid” on[http://www.merriam-webster.com/dictionary/splendid]()
-> 1:  possessing or displaying splendor: as                                                              a :  shining, brilliant                                                                                                   b :  marked by showy magnificence                                                                       2:  illustrious, grand                                                                                                         3: a :  excellent \<a splendid opportunity\>                                                                       b :  being out of the ordinary :  singular
+To start with, I will show the definition of “Splendid” on [http://www.merriam-webster.com/dictionary/splendid](merriam-webster.com)
+> 1: possessing or displaying splendor: as
+  a: shining, brilliant
+  b: marked by showy magnificence                                                                       
+  2: illustrious, grand                                                                                                         
+  3: 
+  a: excellent \<a splendid opportunity\>
+  b: being out of the ordinary : singular
 
 That is what I want this blog be. I will not only write down some plain experiences or introductions, but also attract visitors with my unique emotions or critics on  such things I mentioned in Welcome words. I think this blog may not be updated so frequently that may disturb my readers or occupy my whole leisure time, but every article I posted here will be sleeted carefully and to be elegant, insightful and meaningful.
 
