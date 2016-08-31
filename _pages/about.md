@@ -24,7 +24,8 @@ Thank you for visiting and wish you have a pleasant journey in my blog.
 
 ## About the blog’s name - Splendid
 
-To start with, I will show the definition of “Splendid” on [http://www.merriam-webster.com/dictionary/splendid](merriam-webster.com)
+To start with, I will show the definition of “Splendid” on merriam-webster.
+
 > 1: possessing or displaying splendor: as
   a: shining, brilliant
   b: marked by showy magnificence                                                                       
