@@ -5,17 +5,19 @@ author:    fangzheng
 keywords:  about person 
 title:     About This Blog and The Owner
 menutitle: About
-weight:    62
+weight:    80
 excerpt:   This page contains laconic description of my blog as well as myself.
 ---
 
 ## Profile
 
-Integer sit amet libero non sapien sagittis dapibus. Phasellus gravida quam ac nisl finibus dictum. Pellentesque vel orci et nisi pretium tincidunt nec a diam. Vivamus et leo eu lorem congue pellentesque id sed tortor. Nulla et nibh neque. Sed ut fermentum lectus, id rhoncus erat.
+Hello, welcome to Fangzheng Zou’s personal blog. I’m a student major in Economics at Nankai University, which is famous for its preeminent academic performance in the fields of Mathematic, Chemistry, Economics and History. Setting up the blog for my interest, I would share my study experience in Economics, tell stories about my university, and also reveal a different look of Shanghai, the city I lived in. My blog will be provided in both English and Chinese. If you have any suggestion or question about my blog or my articles, welcome to contact with me via Email/Facebook.
+Thank you for visiting and wish you have a pleasant journey in my blog.
+
 
 ---
 
-## Skills
+## About the blog’s name - Splendid
 
 - Praesent ac augue imperdiet, interdum purus id, sollicitudin sem.
 - Sed pellentesque urna a magna suscipit volutpat.
