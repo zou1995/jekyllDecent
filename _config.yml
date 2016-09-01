@@ -14,7 +14,7 @@ language:     "zh" # default language of the blog. Language codes: http://www.w3
 
 baseurl:      "" # the subpath of your site, e.g. /blog
 url:          http://zoufangzheng.com # the base hostname & protocol for your site. Have a look at robots.txt as well!
-permalink:    /blog/:categories/:title
+permalink:    /:year/:month/:day/:title
 cover:        /assets/mountain-cover.jpg
 
 # Build settings
