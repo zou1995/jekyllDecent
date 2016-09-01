@@ -33,3 +33,7 @@ comments :
   provider : duoshuo
   duoshuo :
     short_name : zou1995
+production_url : http://zoufangzheng.com
+JB :
+  BASE_PATH : false
+  atom_path : /atom.xml
