@@ -1,5 +1,6 @@
 ---
 layout:    page
+cover:     /assets/Lofoten.jpg
 permalink: "/offline-warning/"
 author:    fangzheng
 weight:    5
