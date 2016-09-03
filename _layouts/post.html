@@ -40,6 +40,18 @@ layout: default
         <div class="ds-thread" {% if page.id %}data-thread-key="{{ page.id }}"{% endif %}  data-title="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}"></div>
     </div>
     <!-- Duoshuo Comment END -->
+    <body onselectstart=”return false”>
+    oncopy="return false;" 
+    oncut="return false;"
+    <body oncontextmenu=”return false”></body>
+<!-- 禁用右键: -->
+<script>
+function stop(){
+return false;
+}
+document.oncontextmenu=stop;
+</script>
+
 </main>
 
 {% include photoswipe.html %}
