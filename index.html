@@ -50,6 +50,15 @@ layout: default
                     <header class="post-header">
                         <span class="title"><a itemprop="name" href="{{ post.url | prepend: site.github.url | prepend: site.baseurl }}" title="{{ title }}">{{ title }}</a></span>
                         <time class="date" itemprop="datePublished" datetime="{{post.date | date: "%Y-%m-%d"}}">{{post.date | date: "%B %e, %Y"}}</time>
+                        <script>
+                        var _hmt = _hmt || [];
+                        (function() {
+                        var hm = document.createElement("script");
+                        hm.src = "//hm.baidu.com/hm.js?d33980922c017d19027fa5f576aa66b8";
+                        var s = document.getElementsByTagName("script")[0]; 
+                        s.parentNode.insertBefore(hm, s);
+                        })();
+                        </script>
                     </header>
                 </article>
             </div>
