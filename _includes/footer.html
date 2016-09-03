@@ -1,5 +1,14 @@
 <footer class="site-footer">
     <button class="go-to-top"></button>
+    <script>
+    var _hmt = _hmt || [];
+    (function() {
+    var hm = document.createElement("script");
+    hm.src = "//hm.baidu.com/hm.js?d33980922c017d19027fa5f576aa66b8";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+    })();
+    </script>
     <p class="copyright"><a href="{{site.github.url | prepend: site.baseurl}}" title="{{ site.title }}">{{site.title}}</a> &copy; {{ site.time | date: '%Y' }} | <a href="{{ "/feed.xml" | prepend: site.github.url | prepend: site.baseurl}}" title="RSS Feed">RSS Feed</a></p>
     <p class="poweredby">powered by <a href="https://jekyllrb.com/" title="Jekyll">Jekyll</a> Updated by Fangzheng Zou BY-NC-SA Lisence</p>
 </footer>
