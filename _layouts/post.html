@@ -49,7 +49,13 @@ return false;
 }
 document.oncontextmenu=stop;
 </script>
-
+jQuery(document).ready(function()
+{
+$(this).bind("contextmenu", function(e) {
+        e.preventDefault();
+    });
+}
+<body oncut="return false" oncopy="return false" onselectstart="return false">
 </main>
 
 {% include photoswipe.html %}
